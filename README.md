@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Arthur😁
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/Tutu-pandolfi">
@@ -6,15 +6,9 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-Pandolfi&layout=compact&langs_count=6&theme=tokyonight"/>
 </div> <br>
      <h2>Apresentação:</h2>
-    <h3>Olá, eu sou o Arthur, "Tutu" para os mais íntimos. Tenho 12 anos e estou estudando programação. Faço parte de uma equipe de robótica da FLL, onde quero fazer um site para ela.<br>Bem, só isso mesmo!</h3>
-<div style="display: inline_block"><br>
-  <p>To aperendendo:</p> <a href="https://github.com/Arthur-Pandolfi/Python"><img align="center" alt="Python" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"><br></a>
-  <p>Quero aprender:</p> <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href=" "><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- 
-
+    <h3>Olá, eu sou o Arthur, "Tutu" para os mais íntimos, tenho 13 anos, e faço parte de uma equipe de robótica de FLL.<br>Bem, só isso mesmo!</h3>
+    
    ## Meios de contato
 <div> 
-  <a href = "mailto:arthurpandolficorrea@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthurpandolfi.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
